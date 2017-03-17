@@ -1,0 +1,4 @@
+﻿  p2.cpp
+d:\visual studio 2015\자료구조\자료구조\p2.cpp(19): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  자료구조.vcxproj -> D:\Visual Studio 2015\자료구조\Debug\자료구조.exe
+  자료구조.vcxproj -> D:\Visual Studio 2015\자료구조\Debug\자료구조.pdb (Full PDB)
